@@ -1,7 +1,6 @@
 # Gabrielsmind CCNA Notes
 
 **Index**
-```text
 - [01 - Basic](docs/01-basic.md)
 - [02 - Interface](docs/02-interface.md)
 - [03 - SSH](docs/03-ssh.md) • [04 - VLAN](docs/04-vlan.md)
@@ -21,15 +20,12 @@
 - [18 - Port Security](docs/18-port-security.md)
 - [19 - Troubleshooting](docs/19-troubleshooting.md)
 - [20 - Common Ports](docs/20-common-ports.md)
-```
+
 **Cheatsheet:**
-```text
 [`cheatsheets/ccna-cheatsheet.md`](cheatsheets/ccna-cheatsheet.md)
-```
 **Examples:** 
-```text
 [`examples/`](examples)
-```
+
 
 ---
 **Credits:** SAALIOUI HAMZA (March 2025). See `CREDITS.md`.
