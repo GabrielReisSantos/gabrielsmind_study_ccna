@@ -3,7 +3,8 @@
 **Index**
 - [01 - Basic](docs/01-basic.md)
 - [02 - Interface](docs/02-interface.md)
-- [03 - SSH](docs/03-ssh.md) • [04 - VLAN](docs/04-vlan.md)
+- [03 - SSH](docs/03-ssh.md)
+- [04 - VLAN](docs/04-vlan.md)
 - [05 - Trunk & VTP](docs/05-trunk-vtp.md)
 - [06 - SVI](docs/06-svi.md)
 - [07 - EtherChannel](docs/07-etherchannel.md)
