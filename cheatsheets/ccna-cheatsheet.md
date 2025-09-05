@@ -1,6 +1,7 @@
 # CCNA Cheatsheet (Gabrielsmind)
 
 **Bootstrap**
+
 enable ; conf t ; hostname R1 ; service password-encryption ; enable secret <pw> ; username admin secret <pw> ; line vty 0 15 ; login local ; transport input ssh ; ip domain-name lab.local ; crypto key generate rsa ; ip ssh version 2 ; copy run start
 
 **VLAN/Trunk/SVI**
