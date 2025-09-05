@@ -1,0 +1,7 @@
+access-list 1 permit 192.168.0.0 0.255.255.255
+ip nat pool STUDY 20.20.20.2 20.20.20.2 netmask 255.255.255.252
+ip nat inside source list 1 pool STUDY overload
+interface fa0/1
+ ip nat inside
+interface fa0/2
+ ip nat outside

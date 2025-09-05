@@ -1,0 +1,6 @@
+# 20 — Common Ports
+```text
+FTP 20/21, SSH 22, Telnet 23, SMTP 25, DNS 53, DHCP 67/68,
+HTTP 80, POP3 110, NTP 123, IMAP 143, SNMP 161, HTTPS 443,
+TFTP 69, RDP 3389
+```
