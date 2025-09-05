@@ -29,4 +29,4 @@
 
 
 ---
-**Credits:** SAALIOUI HAMZA (March 2025). See `CREDITS.md`.
+**Credits:** See `CREDITS.md`.
