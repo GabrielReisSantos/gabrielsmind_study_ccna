@@ -1,4 +1,4 @@
-# Gabrielsmind CCNA Notes
+# Gabriel'smind CCNA Notes
 
 **Index**
 - [01 - Basic](docs/01-basic.md)
